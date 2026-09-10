@@ -1,3 +1,9 @@
-a = 10;
-        b = 3;
-        c = 6;
+
+        a = x;
+        b = y;
+    }
+
+    int addTwo() {
+        int c = a + b;
+        return c;
+    }
